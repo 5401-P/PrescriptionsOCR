@@ -1,0 +1,8 @@
+streamlit
+Pillow
+numpy
+opencv-python
+rapidfuzz
+transformers
+torch
+paddleocr
