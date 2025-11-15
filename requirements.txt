@@ -1,8 +1,8 @@
 streamlit==1.25.0
-opencv-python
 Pillow
 numpy
 pandas
 rapidfuzz
 transformers
 torch
+PaddleOCR
